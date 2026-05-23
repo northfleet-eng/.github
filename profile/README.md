@@ -2,7 +2,7 @@
 
 **The sovereign supply chain for Canada's classified Kubernetes.**
 
-A Canadian-incorporated tooling vendor, outside US CLOUD Act reach. Northfleet supplies the bundle protocol, attestation chain, and tamper-evident audit trail that cleared engineering teams apply to their Protected B and Secret Kubernetes clusters on Canadian-jurisdictional infrastructure. The customer brings the cluster; Northfleet supplies the trust path between build and apply.
+A Canadian-incorporated Kubernetes supply chain vendor, outside US CLOUD Act reach. Northfleet supplies the bundle protocol, attestation chain, and tamper-evident audit trail that cleared engineering teams apply to their Protected B and Secret Kubernetes clusters on Canadian-jurisdictional infrastructure. The customer brings the cluster; Northfleet supplies the trust path between build and apply.
 
 [northfleet.tech](https://northfleet.tech) · [Field notes](https://northfleet.tech/field-notes) · [Contact](https://northfleet.tech/contact)
 
