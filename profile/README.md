@@ -15,10 +15,6 @@ This organization hosts open-source utilities that contribute to the shared proc
 
 Neither utility encodes Northfleet implementation specifics. They are public framework content with a community usability layer.
 
-## What is not here
-
-The bundle protocol implementation, attestation chain internals, audit trail emission logic, threat model, cryptographic posture, and accreditation evidence mechanics are not on GitHub. They live in NDA-gated material reviewed during procurement and accreditation conversations.
-
 ## For defence primes, federal departments, and allied buyers
 
 If you are evaluating sovereign infrastructure for classified workloads, the conversation is open at [northfleet.tech](https://northfleet.tech). A briefing follows first contact.
