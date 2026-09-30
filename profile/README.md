@@ -12,7 +12,7 @@ One open specification and two open-source utilities that contribute to the shar
 
 - **[bundle-format](https://github.com/northfleet-eng/bundle-format)**: the open specification for the Northfleet bundle format, published so that anyone who receives a bundle can verify it with stock tooling, without installing or trusting Northfleet software.
 - **[itsg33-kubernetes-protected-b-mapping](https://github.com/northfleet-eng/itsg33-kubernetes-protected-b-mapping)**: the Government of Canada Protected B / Medium control profile (CCCS ITSP.10.033-01, successor to ITSG-33 Annex 4A Profile 1) mapped to Kubernetes mechanisms, bucketed by admin-implemented, workload-implemented, and external. Markdown and CSV, the catalogue, profile and mapping in OSCAL, and automated policy checks for eight controls, published as OSCAL assessment results.
-- **[cpcsc-l1-self-assessment](https://github.com/northfleet-eng/cpcsc-l1-self-assessment)**: a self-assessment template for Level 1 of the Canadian Program for Cyber Security Certification, with the 13 controls and 71 determination statements from PSPC's Level 1 criteria in Markdown and CSV.
+- **[cpcsc-l1-self-assessment](https://github.com/northfleet-eng/cpcsc-l1-self-assessment)**: a self-assessment template for Level 1 of the Canadian Program for Cyber Security Certification, with the 13 controls PSPC's Level 1 criteria select and their 71 determination statements from CCCS ITSP.10.171-01, in Markdown and CSV.
 
 The two utilities are public framework content with a community usability layer. Neither encodes Northfleet implementation specifics.
 
