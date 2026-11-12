@@ -1,8 +1,8 @@
 # Northfleet
 
-**The sovereign supply chain for Canada's classified Kubernetes.**
+**The sovereign supply chain for Kubernetes in Canadian defence.**
 
-A Canadian-incorporated Kubernetes supply chain vendor. Northfleet supplies the bundle protocol, attestation chain, and tamper-evident audit trail that cleared engineering teams apply to their Protected B and Secret Kubernetes clusters on Canadian-jurisdictional infrastructure. The customer brings the cluster; Northfleet supplies the trust path between build and apply. Northfleet holds no customer data and no customer signing keys, and the architecture assumes the vendor can be compromised or compelled: compelling Northfleet does not produce a silent backdoor.
+A Canadian-incorporated Kubernetes supply chain vendor. Northfleet supplies the bundle protocol, attestation chain, and tamper-evident audit trail for cleared engineering teams to apply to their own Protected B Kubernetes clusters on Canadian-jurisdictional infrastructure. The customer brings the cluster; Northfleet supplies the trust path between build and apply. Northfleet holds no customer data and no customer signing keys, and the architecture assumes the vendor can be compromised or compelled: compelling Northfleet does not produce a silent backdoor.
 
 [northfleetsecurity.ca](https://northfleetsecurity.ca) · [Field notes](https://northfleetsecurity.ca/field-notes) · [Contact](https://northfleetsecurity.ca/contact)
 
